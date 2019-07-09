@@ -1,0 +1,6 @@
+               
+def daxie(x)
+    return [i.title() i in range()]
+def gaoj(c,x)
+    return c(x)      
+         
